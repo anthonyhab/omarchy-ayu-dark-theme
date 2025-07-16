@@ -1,32 +1,22 @@
-# Ayu Theme for Omarchy
+# Ayu Dark Theme for Omarchy
 
-A clean and modern theme inspired by the Ayu color scheme for Omarchy window manager.
+[Ayu Dark](https://github.com/ayu-theme/ayu-vim) color scheme for Omarchy window manager. Mostly created by Claude Code.
 
 ## Installation
 
 ```bash
-omarchy-theme-install https://github.com/omacom-io/omarchy-ayu-theme.git
+omarchy-theme-install https://github.com/anthonyhab/omarchy-ayu-dark-theme.git
 ```
 
 ## Included Configurations
 
-- **Alacritty** - Terminal emulator
-- **btop** - System monitor
-- **Hyprland** - Window manager
-- **Hyprlock** - Lock screen
+Includes all the standard theme files but also my config for kitty that has fixes for Claude Code pasting images with `CTRL+V`. Also some changes for mako.ini to change color of progressbar for use in a volume/brightness slider notification.
+
 - **Kitty** - Terminal emulator
-- **Mako** - Notification daemon
-- **Neovim** - Text editor
-- **Waybar** - Status bar
-- **Wofi** - Application launcher
-
-## Color Palette
-
-The Ayu theme features a balanced color scheme with warm undertones, providing excellent readability and a pleasant visual experience.
 
 ## Preview
 
-![Ayu Theme Preview](https://raw.githubusercontent.com/ayu-theme/ayu-colors/master/images/colors-overview.png)
+![Ayu Dark Theme Preview](https://github.com/anthonyhab/omarchy-ayu-dark-theme/releases/download/v1.0/screenshot.png)
 
 ## Contributing
 
