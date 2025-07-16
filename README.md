@@ -1,11 +1,11 @@
-# Ayu Theme for Omarchy
+# Ayu Dark Theme for Omarchy
 
-A clean and modern theme inspired by the Ayu color scheme for Omarchy window manager.
+A clean and modern dark theme inspired by the Ayu Dark color scheme for Omarchy window manager.
 
 ## Installation
 
 ```bash
-omarchy-theme-install https://github.com/omacom-io/omarchy-ayu-theme.git
+omarchy-theme-install https://github.com/omacom-io/omarchy-ayu-dark-theme.git
 ```
 
 ## Included Configurations
@@ -22,11 +22,11 @@ omarchy-theme-install https://github.com/omacom-io/omarchy-ayu-theme.git
 
 ## Color Palette
 
-The Ayu theme features a balanced color scheme with warm undertones, providing excellent readability and a pleasant visual experience.
+The Ayu Dark theme features a balanced dark color scheme with warm undertones, providing excellent readability and a pleasant visual experience.
 
 ## Preview
 
-![Ayu Theme Preview](https://raw.githubusercontent.com/ayu-theme/ayu-colors/master/images/colors-overview.png)
+![Ayu Dark Theme Preview](https://raw.githubusercontent.com/ayu-theme/ayu-colors/master/images/colors-overview.png)
 
 ## Contributing
 

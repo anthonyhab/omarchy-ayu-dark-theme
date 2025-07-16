@@ -1,8 +1,7 @@
-# Theme: ayu-dark
-# By: Claude
+# Theme: Ayu Dark
 
 # Main bg
-theme[main_bg]="#0b0e14"
+theme[main_bg]="#0D1017"
 
 # Main text color
 theme[main_fg]="#bfbdb6"
@@ -14,7 +13,7 @@ theme[title]="#bfbdb6"
 theme[hi_fg]="#39bae6"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#11151c"
+theme[selected_bg]="#131721"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#bfbdb6"

@@ -1,11 +1,11 @@
 [colors]
 [colors.primary]
-background = '#0b0e14'
+background = '#0D1017'
 foreground = '#bfbdb6'
 
 # Normal colors
 [colors.normal]
-black = '#01060e'
+black = '#0D1017'
 red = '#d95757'
 green = '#aad94c'
 yellow = '#ffb454'
