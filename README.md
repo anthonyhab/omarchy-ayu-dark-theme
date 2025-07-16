@@ -26,7 +26,7 @@ The Ayu Dark theme features a balanced dark color scheme with warm undertones, p
 
 ## Preview
 
-![Ayu Dark Theme Preview](https://raw.githubusercontent.com/ayu-theme/ayu-colors/master/images/colors-overview.png)
+![Ayu Dark Theme Preview](https://github.com/anthonyhab/omarchy-ayu-dark-theme/releases/download/v1.0/screenshot.png)
 
 ## Contributing
 
